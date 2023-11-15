@@ -1,0 +1,22 @@
+{
+  "name": "ethanmay/pattern-manager",
+  "type": "wordpress-plugin",
+  "description": "A plugin for managing patterns",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "pattern-manager"
+  ],
+  "homepage": "https://github.com/ethanmay/pattern-manager",
+  "authors": [
+      {
+        "name": "Ethan May",
+        "email": "ethan@ethanmay.com",
+        "homepage": "https://ethanmay.com",
+        "role": "Developer"
+      }
+  ],
+  "config": {
+    "sort-packages": true
+  }
+}
